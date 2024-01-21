@@ -1,0 +1,42 @@
+h2{
+  color:brown;
+}
+h3{
+  color: blue;
+}
+p{
+  color:red;
+}
+        body {
+             background-image: url(https://img.freepik.com/free-photo/white-concrete-wall_53876-92803.jpg?size=626&ext=jpg&uid=R99655961&ga=GA1.1.252722421.1704870538&semt=sph);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-attachment: fixed;
+            
+            font-family:inherit,sans-serif;
+        }
+
+        center {
+            margin-top: 50px;
+        }
+
+        button {
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
+            margin: 10px;
+            padding: 0;
+        }
+
+        button img {
+            width: 80px;
+            height: 60px;
+            border-radius: 20px;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+    
